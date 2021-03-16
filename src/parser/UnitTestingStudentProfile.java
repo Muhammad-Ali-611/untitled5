@@ -1,4 +1,4 @@
-package parser;
+package MidtermJanuary2021.src.parser;
 
 public class UnitTestingStudentProfile {
     public static void main(String[] args) {

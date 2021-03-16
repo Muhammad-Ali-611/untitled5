@@ -1,4 +1,4 @@
-package algorithm;
+package MidtermJanuary2021.src.algorithm;
 
 public class Sort {
 

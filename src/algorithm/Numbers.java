@@ -1,6 +1,6 @@
-package algorithm;
+package MidtermJanuary2021.src.algorithm;
 
-import databases.ConnectToSqlDB;
+import MidtermJanuary2021.src.databases.ConnectToSqlDB;
 
 import java.util.List;
 import java.util.Random;

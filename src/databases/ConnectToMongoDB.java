@@ -1,4 +1,4 @@
-package databases;
+package MidtermJanuary2021.src.databases;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
